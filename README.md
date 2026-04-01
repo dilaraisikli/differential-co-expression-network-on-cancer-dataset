@@ -91,8 +91,6 @@ https://github.com/ceccaroni1884368/DE_TCGA-LUAD
 
 Dilara Isikli & Riccardo Ceccaroni
 
-Group 08
-
 ## References
 
 The analysis builds upon established bioinformatics methods for gene expression analysis and network-based approaches in cancer research. Key references include studies on LUAD biomarkers, gene co-expression networks, and differential expression analysis methodologies.
